@@ -1,0 +1,16 @@
+1778253287175 | GET | /api/users/4
+1778253289044 | GET | /api/users/4
+1778253293721 | GET | /api/users/44
+1778253298133 | GET | /api/users/464
+1778253301271 | GET | /api/users
+1778253324367 | DELETE | /api/users/99
+1778254229651 | GET | /api/users/795
+1778254263286 | GET | /api/users
+1778254302771 | GET | /api/users
+1778254336333 | GET | /api/users
+1778254544831 | GET | /api/users
+1778255260855 | POST | /api/users
+1778255310502 | GET | /api/users/795
+1778255318129 | GET | /api/users/7950
+1778255330410 | GET | /api/users/7950
+1778255850759 | POST | /api/users
